@@ -1,6 +1,7 @@
 minimum_cumulusci_version: '3.9.1'
 project:
     name: Food-Bank
+    namespace: cciedt
     package:
         name:  Food-Bank
         api_version: '48.0'
